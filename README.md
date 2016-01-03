@@ -1,6 +1,6 @@
 # Sentiment analysis root dictionaries
 
-My TvSeriesTweet app collects popular tweets from the best Tv Series. I’ve recently added a Sentiment Analysis tab, to provide info about how the Tv Series communication on Twitter is polarized (positive, negative or neutral content) and what type of content best suits the followers. Unlike other analysts, I like to study the communication of the Twitter influencers instead of the sentiments of the users reacting to them.
+My [TvSeriesTweet](http://www.whiletrue.it/tvseriestweet/) app collects popular tweets from the best Tv Series. I’ve recently added a Sentiment Analysis tab, to provide info about how the Tv Series communication on Twitter is polarized (positive, negative or neutral content) and what type of content best suits the followers. Unlike other analysts, I like to study the communication of the Twitter influencers instead of the sentiments of the users reacting to them.
 
 After having studied and tried the best current approaches to Sentiment analysis (syntactic-semantic grammar rules, heuristic methods, combined methods), I decided to develop a different solution to better address the Twitter user content.
 
