@@ -325,7 +325,6 @@ death,-2
 debonair,2
 debt,-2
 deceit,-3
-deceitful,-3
 deceiv,-3
 deception,-3
 decisive,1
