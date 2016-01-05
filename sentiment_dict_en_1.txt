@@ -333,7 +333,6 @@ defeat,-2
 defect,-3
 defects,-3
 defender,2
-defenders,2
 defenseless,-2
 defer,-1
 defiant,-1
