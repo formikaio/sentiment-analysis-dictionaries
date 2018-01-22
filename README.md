@@ -8,6 +8,6 @@ Twitter users tend to use a lot of hashtags and aggregated words, so a classic d
 
 The roots dictionary is derived from the AFINN-111 file. It’s a text file, every row contains the root of a word, and a positive or negative score (in the range -5/+5) separated by comma.
 
-The English dictionary is provided; the Italian dictionary will be released next.
+The English and Italian dictionary are provided; other dictionaries will be released next.
 
 More info here: http://www.whiletrue.it/sentiment-analysis-approach/
